@@ -1,4 +1,4 @@
-<h4 align="center">Fast and customisable vulnerability scanner based on simple YAML based DSL.</h4>
+<h4 align="center">Fast and customisable vulnerability scanner based on simple SQL payloads.</h4>
 
 
 <p align="center">
