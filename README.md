@@ -24,6 +24,7 @@ Bsqli is used to send requests across targets based on a payload list, leading t
 
 <h3 align="center">
   <img src="static/howto.png" alt="Bsqli-flow" width="700px"></a>
+      <img src="static/bash.png" alt="Bsqli-flow" width="700px"></a>
 </h3>
 
 # Install Bsqli
